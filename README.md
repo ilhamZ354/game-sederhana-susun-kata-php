@@ -1,2 +1,2 @@
-# game-susun-kata-sederhana
-Projek ini saya buat untuk memenuhi tugas mata kuliah Pemrograman Web berbasis PHP
+# game susun kata berbasis web
+Projek ini saya buat untuk memenuhi tugas mata kuliah Pemrograman Web
